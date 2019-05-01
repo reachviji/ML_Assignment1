@@ -15,3 +15,5 @@ Assignment 3.1: Python program to print Highest Common Factor (HCF) of two numbe
 Assignment 3.2: Python program to make a simple calculator that can add, 
                 subtract, multiply and division
 Assignment 3.3: Python program to display the Fibonacci sequence up to nth term without and with recursive function
+
+Assignments1.html has all the code with output done in Jupyter Notebook
